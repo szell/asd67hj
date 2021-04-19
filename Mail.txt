@@ -1,3 +1,6 @@
+Írj választ az alábbi emailre.
+
+
 Hi Team,
 I’m reaching out to you on behalf of Paul R. who had concerns that we expose customer email adresses in the Grafana telemetry dashboard.
  
