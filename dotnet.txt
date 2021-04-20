@@ -13,5 +13,4 @@ sudo apt-get update; \
 
 
 dotnet new console
-dotnet build
-dotnet bin/Debug/net5.0/asd67hj.dll
+dotnet build && dotnet bin/Debug/net5.0/asd67hj.dll
