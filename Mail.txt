@@ -5,6 +5,8 @@ Hi Team,
 I’m reaching out to you on behalf of Paul R. who had concerns that we expose customer email adresses in the Grafana telemetry dashboard.
  
 Is this okay with respect to data privacy terms? If not, would it be an option to obfuscate the addresses? 
+
+BTW John cannot reach your webssite in the cloud. Do you have any hint for them?
  
 Kind Regards
 James
